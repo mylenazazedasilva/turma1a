@@ -1,0 +1,49 @@
+body {
+      background:green;
+}
+
+     #nomeimagem{
+    windth:100%;
+     }
+
+     .principal{
+      background:#green;
+     }
+ 
+     h1{
+     text-align:center;
+     }
+
+     p1{
+     font-weight: bold;
+     text-aling:center;
+     }
+
+    
+
+     strong{
+       color:blue;
+     }
+     
+     .itens{
+         font-style:italic
+     }
+
+     .beneficios{
+       background:yellow;
+     }
+     h2{
+       text-align:center
+     }
+
+    ul { display: inline-block;
+    vertical-align: top;
+    width:  30%;
+    margin-right:  15%;
+    font-style: oblique;
+    }
+
+
+    .imagembeneficios{
+     width:  40%;  
+    }
